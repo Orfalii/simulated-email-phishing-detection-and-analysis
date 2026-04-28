@@ -21,7 +21,7 @@ Determinar se o email analisado é legítimo ou malicioso, justificar a conclus�
 - Inconsistências em `Return-Path`, `Reply-To` e origem da mensagem
 - Evidências compatíveis com phishing de coleta de credenciais
 
----billing@micr0soft-billing-support.com
+---
 
 ### Resumo do Incidente
 Severidade: Alta
