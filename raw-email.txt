@@ -1,0 +1,26 @@
+From: "Microsoft Billing" <billing@micr0soft-billing-support.com>
+To: financeiro@empresa.local
+Subject: [Urgente] Pagamento pendente - ação necessária hoje
+Date: Tue, 15 Apr 2026 08:14:22 -0300
+Message-ID: <20260415081422.9912@mx-notify.portal-faturas-support.com>
+Reply-To: atendimento@portal-faturas-support.com
+Return-Path: <bounce@mailer.portal-faturas-support.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+Prezado cliente,
+
+Identificamos uma pendência de pagamento vinculada ao seu contrato corporativo Microsoft 365.
+
+Para evitar a suspensão temporária do serviço ainda hoje, solicitamos a validação imediata do pagamento no portal abaixo:
+
+https://portal-faturas-support.com/secure/m365-validation
+
+Caso a validação não seja realizada nas próximas 2 horas, seu ambiente poderá sofrer interrupção parcial de acesso.
+
+Atenciosamente,
+Equipe de Faturamento
+Microsoft Billing Center
+
+Disclaimer:
+Esta mensagem foi gerada automaticamente. Não responda este email.
