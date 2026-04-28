@@ -19,12 +19,3 @@ Authentication-Results: mx.empresa.local;
 Received-SPF: Fail (mx.empresa.local: domain of mailer.portal-faturas-support.com does not designate 45.77.188.201 as permitted sender)
 X-Mailer: PHP/8.1 mail()
 Content-Type: text/html; charset="UTF-8"
-
-Indicators observed:
-- Display name imitates Microsoft
-- Sender domain uses typo-squatting: micr0soft-billing-support.com
-- Reply-To points to different domain than From
-- SPF fail
-- DKIM absent
-- DMARC fail
-- Embedded link points to portal-faturas-support.com
