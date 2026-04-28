@@ -36,13 +36,6 @@ Usuário Impactado: `financeiro@empresa.local`
 
 ---
 
-### Fontes de Dados
-- Email bruto: [raw-email.txt](raw-email.txt)
-- Cabeçalhos extraídos: [email-headers.txt](email-headers.txt)
-- Relatório técnico: [incident-report.md](incident-report.md)
-
----
-
 ### Fluxo de Investigação
 1. Revisão do conteúdo do email e da narrativa usada para pressionar a vítima.
 2. Validação do domínio do remetente e do link enviado.
