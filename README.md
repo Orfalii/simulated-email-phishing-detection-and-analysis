@@ -1,6 +1,6 @@
 # SOC Labs – Raphael Orfali
 
-## Lab 2 – Phishing Email Triage and IOC Analysis
+## Lab 2 – Triagem de Email de Phishing
 
 ### Cenário
 Este laboratório simula o recebimento de um email suspeito reportado por um usuário interno após uma mensagem com aparência de cobrança urgente e solicitação de ação imediata.
