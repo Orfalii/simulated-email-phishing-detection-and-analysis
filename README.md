@@ -57,7 +57,7 @@ Usuário Impactado: `financeiro@empresa.local`
 ## Evidências
 
 Artefatos analisados:
-- [raw-email.txt](raw-email.txt)
+- [email.txt](email.txt)
 - [email-headers.txt](email-headers.txt)
 - [incident-report.md](incident-report.md)
 
