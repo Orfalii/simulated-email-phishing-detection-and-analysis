@@ -1,0 +1,30 @@
+Return-Path: <bounce@mailer.portal-faturas-support.com>
+Received: from mailer.portal-faturas-support.com (45.77.188.201)
+    by mx.empresa.local with ESMTP id 00841
+    for <financeiro@empresa.local>; Tue, 15 Apr 2026 08:14:25 -0300
+Received: from relay.node-mailer.host (45.77.188.201)
+    by mailer.portal-faturas-support.com with ESMTP id 9912
+    Tue, 15 Apr 2026 11:14:21 +0000
+From: "Microsoft Billing" <billing@micr0soft-billing-support.com>
+To: financeiro@empresa.local
+Subject: [Urgente] Pagamento pendente - ação necessária hoje
+Date: Tue, 15 Apr 2026 08:14:22 -0300
+Message-ID: <20260415081422.9912@mx-notify.portal-faturas-support.com>
+Reply-To: atendimento@portal-faturas-support.com
+X-Originating-IP: [45.77.188.201]
+Authentication-Results: mx.empresa.local;
+    spf=fail smtp.mailfrom=mailer.portal-faturas-support.com;
+    dkim=none header.d=none;
+    dmarc=fail action=quarantine header.from=micr0soft-billing-support.com
+Received-SPF: Fail (mx.empresa.local: domain of mailer.portal-faturas-support.com does not designate 45.77.188.201 as permitted sender)
+X-Mailer: PHP/8.1 mail()
+Content-Type: text/html; charset="UTF-8"
+
+Indicators observed:
+- Display name imitates Microsoft
+- Sender domain uses typo-squatting: micr0soft-billing-support.com
+- Reply-To points to different domain than From
+- SPF fail
+- DKIM absent
+- DMARC fail
+- Embedded link points to portal-faturas-support.com
